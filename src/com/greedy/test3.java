@@ -1,0 +1,30 @@
+package com.greedy;
+
+public class test3 {
+	
+	String reName = "g";
+	int reAge = 40;
+	String reEmail = "gim@gmail.com";
+	
+	
+	public String name3() {
+		test3 name3 = new test3();
+		System.out.println("이름:" + reName);
+		return reName;
+		
+	}
+	
+	public int age3() {
+		test3 age3 = new test3();
+		System.out.println("나이:" + reAge + "세");
+		return reAge;
+	}
+	
+	public String email3() {
+		test3 email3 = new test3();
+		System.out.println("메일주소:" + reEmail);
+		return reEmail;
+		
+	}	
+
+}

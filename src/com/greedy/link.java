@@ -18,6 +18,13 @@ public class link {
 		call2.age2();
 		call2.email2();
 		
+		System.out.println("==============");
+		
+		test3 call3 = new test3();
+		call3.name3();
+		call3.age3();
+		call3.email3();
+		
 	}
 	
 }
