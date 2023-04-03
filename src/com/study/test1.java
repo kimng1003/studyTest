@@ -1,4 +1,4 @@
-package com.greedy;
+package com.study;
 
 public class test1 {
 	

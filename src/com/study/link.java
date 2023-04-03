@@ -1,6 +1,6 @@
-package com.greedy;
+package com.study;
 
-import com.greedy.*;
+import com.study.*;
 
 public class link {
 

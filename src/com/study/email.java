@@ -1,5 +1,5 @@
-package com.greedy.sub;
-import com.greedy.sub.*;
+package com.study;
+import com.greedy.*;
 
 public class email {
 

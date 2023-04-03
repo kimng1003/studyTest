@@ -1,4 +1,4 @@
-package com.greedy.sub;
+package com.study;
 
 public class age {
 
